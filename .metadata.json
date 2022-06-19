@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ODEnetwork",
+    "oncran": true
+  },
+  {
+    "package": "ODEsensitivity",
+    "oncran": true
+  }
+]
