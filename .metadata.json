@@ -1,10 +1,10 @@
 [
   {
-    "package": "ODEsensitivity",
+    "package": "ODEnetwork",
     "oncran": true
   },
   {
-    "package": "ODEnetwork",
+    "package": "ODEsensitivity",
     "oncran": true
   }
 ]
